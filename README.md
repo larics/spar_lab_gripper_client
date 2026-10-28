@@ -17,7 +17,7 @@ Clone this git repository in your ROS2 workspace:
 git clone https://github.com/larics/spar_lab_gripper_client
 ```
 
-**Before attending the exercise, you must complete the preliminary task defined in this repository and submit it to pero.drobac@fer.hr**.
+**Before attending the exercise, you must complete the preliminary task defined in this repository and submit it to Moodle by the deadline**.
 
 ## Preliminary task
 
